@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+      <FILENAME>hodex.cpp</FILENAME>
+      <LINE>590</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>Local declaration of 'i' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '587' of '\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\hodex.cpp'.</DESCRIPTION>
+    <FUNCTION>ReadXml</FUNCTION>
+    <DECORATED>?ReadXml@@YAXAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0PAPANAAH_N2@Z</DECORATED>
+    <FUNCLINE>498</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>587</LINE>
+        <COLUMN>7</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+      <FILENAME>hodex.cpp</FILENAME>
+      <LINE>543</LINE>
+      <COLUMN>27</COLUMN>
+    </SFA>
+    <DEFECTCODE>6011</DEFECTCODE>
+    <DESCRIPTION>Dereferencing NULL pointer 'sim_element'. </DESCRIPTION>
+    <FUNCTION>ReadXml</FUNCTION>
+    <DECORATED>?ReadXml@@YAXAAV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0PAPANAAH_N2@Z</DECORATED>
+    <FUNCLINE>498</FUNCLINE>
+    <PROBABILITY>1</PROBABILITY>
+    <RANK>4</RANK>
+    <CATEGORY>
+      <RULECATEGORY>mspft</RULECATEGORY>
+    </CATEGORY>
+    <PATH>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>506</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>507</LINE>
+        <COLUMN>8</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>507</LINE>
+        <COLUMN>26</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>507</LINE>
+        <COLUMN>41</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>507</LINE>
+        <COLUMN>52</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>508</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>512</LINE>
+        <COLUMN>23</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>513</LINE>
+        <COLUMN>44</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>518</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>520</LINE>
+        <COLUMN>18</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>524</LINE>
+        <COLUMN>21</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>526</LINE>
+        <COLUMN>17</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>529</LINE>
+        <COLUMN>20</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>532</LINE>
+        <COLUMN>22</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>534</LINE>
+        <COLUMN>19</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>536</LINE>
+        <COLUMN>11</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>538</LINE>
+        <COLUMN>15</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>540</LINE>
+        <COLUMN>14</COLUMN>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>529</LINE>
+        <COLUMN>20</COLUMN>
+        <KEYEVENT>
+          <ID>1</ID>
+          <KIND>declaration</KIND>
+          <IMPORTANCE>Full</IMPORTANCE>
+          <MESSAGE>'sim_element' may be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+      <SFA>
+        <FILEPATH>\\sisyphos\buntransfer\ag_nokhostin\von_hoda\hoda\2. second task\000.get_direction_all_version\hodex\hodex\</FILEPATH>
+        <FILENAME>hodex.cpp</FILENAME>
+        <LINE>543</LINE>
+        <COLUMN>27</COLUMN>
+        <KEYEVENT>
+          <ID>2</ID>
+          <KIND>usage</KIND>
+          <IMPORTANCE>Essential</IMPORTANCE>
+          <MESSAGE>'sim_element' is dereferenced, but may still be NULL</MESSAGE>
+        </KEYEVENT>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>

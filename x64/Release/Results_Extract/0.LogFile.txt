@@ -1,0 +1,18 @@
+<---------------------
+Date 26/2/2019
+Time  15:21:56:235
+missing Sims: E:\Hoda\2.Second_Task\0.test_data\databank\50\Sim241_1\20181110_1\
+Executing Time : 18.011s
+--------------------->
+<---------------------
+Date 26/2/2019
+Time  15:23:58:94
+missing Sims: E:\Hoda\2.Second_Task\0.test_data\databank\50\Sim241_1\20181110_1\
+Executing Time : 17.855s
+--------------------->
+<---------------------
+Date 26/2/2019
+Time  15:25:54:171
+missing Sims: E:\Hoda\2.Second_Task\0.test_data\databank\50\Sim241_1\20181110_1\
+Executing Time : 18.006s
+--------------------->
