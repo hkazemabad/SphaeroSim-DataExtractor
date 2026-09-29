@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  SphaeroSimDataExtractor.cpp
+SphaeroSimDataExtractor.cpp(200): warning C4018: '<': signed/unsigned mismatch
+  tinyxml2.cpp
+  Generating code
+  822 of 836 functions (98.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SphaeroSimDataExtractor.vcxproj -> \\sisyphos\Buntransfer\ag_nokhostin\von_Hoda\Hoda\2. Second Task\000.SphaeroSimDataExtractor_all_version\SphaeroSimDataExtractor\Release\SphaeroSimDataExtractor.exe
