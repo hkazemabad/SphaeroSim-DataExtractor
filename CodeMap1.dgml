@@ -66,9 +66,9 @@
     <Node Id="(@9)" Category="CodeSchema_Assembly" Bounds="-3820.45890735656,92.7061227468076,247.566666666667,25" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="api-ms-win-crt-filesystem-l1-1-0.dll" Group="Collapsed" Label="api-ms-win-crt-filesystem-l1-1-0.dll" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" UseManualLocation="True" />
     <Node Id="946c9874-2181-4164-b151-bef6079423d4" Bounds="-2751.75643695068,-171.453325902924,949.17,701.56" Group="Expanded" Label="New Group" LayoutSettings="ForceDirected" UseManualLocation="True" />
     <Node Id="@12" Category="CodeSchema_Assembly" Bounds="-3820.45890735656,119.706122746808,221.273333333334,25" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="api-ms-win-crt-heap-l1-1-0.dll" Group="Collapsed" Label="api-ms-win-crt-heap-l1-1-0.dll" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" UseManualLocation="True" />
-    <Node Id="@17" Category="CodeSchema_Assembly" Bounds="-3820.45890735656,362.706122746808,149.436666666666,25" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\HodEx.sln\Unknown Library" Group="Collapsed" Label="Unknown Library" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" UseManualLocation="True" />
+    <Node Id="@17" Category="CodeSchema_Assembly" Bounds="-3820.45890735656,362.706122746808,149.436666666666,25" CodeSchemaProperty_IsExternal="True" DelayedChildNodesState="NotFetched" DelayedCrossGroupLinksState="Fetched" FilePath="$(VsSolution)\SphaeroSimDataExtractor.sln\Unknown Library" Group="Collapsed" Label="Unknown Library" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" UseManualLocation="True" />
     <Node Id="@19" Category="CodeSchema_Namespace" Bounds="-3150.47755556458,-31.0939164471908,176.08,141.920296120834" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" Group="Expanded" Label="‎::" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" UseManualLocation="True" />
-    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="-3295.37632084425,66.8070381444402,114.853333333333,43.945128" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" FilePath="$(e9b25175-c78d-483e-9439-e8f444279f4e.OutputPath)" Group="Expanded" Label="HodEx.exe" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" UseManualLocation="True">
+    <Node Id="@2" Category="CodeSchema_Assembly" Bounds="-3295.37632084425,66.8070381444402,114.853333333333,43.945128" DelayedChildNodesState="Incomplete" DelayedCrossGroupLinksState="Fetched" FilePath="$(e9b25175-c78d-483e-9439-e8f444279f4e.OutputPath)" Group="Expanded" Label="SphaeroSimDataExtractor.exe" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" UseManualLocation="True">
       <Category Ref="FileSystem.Category.FileOfType.exe" />
     </Node>
     <Node Id="@26" Category="CodeSchema_Method" Bounds="-3130.5028213227,8.86386547510217,110.49,25.96" CodeSchemaProperty_IsPublic="True" DelayedCrossGroupLinksState="Fetched" Icon="CodeSchema_Method" Label="ReadInputXml" Language="{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}" NativeProvider_CodeItemIds="Microsoft.VisualStudio.Progression.SmallList`1[System.Int64]" NativeProvider_ReturnType="void" />
@@ -222,7 +222,7 @@
     <Alias n="13" Uri="Assembly=$(SystemUri)/VCRUNTIME140.dll" />
     <Alias n="14" Uri="Assembly=$(SystemUri)/MSVCP140.dll" />
     <Alias n="15" Uri="Assembly=$(SystemUri)/KERNEL32.dll" />
-    <Alias n="16" Uri="Assembly=$(VsSolutionUri)/HodEx.sln/Unknown Library" />
+    <Alias n="16" Uri="Assembly=$(VsSolutionUri)/SphaeroSimDataExtractor.sln/Unknown Library" />
     <Alias n="17" Id="(@16)" />
     <Alias n="18" Id="Namespace=::" />
     <Alias n="19" Id="(@1 @18)" />
@@ -452,11 +452,11 @@
     </Style>
   </Styles>
   <Paths>
-    <Path Id="e9b25175-c78d-483e-9439-e8f444279f4e.OutputPath" Value="C:\Users\Anwari\source\repos\HodEx\x64\Release\HodEx.exe" />
-    <Path Id="e9b25175-c78d-483e-9439-e8f444279f4e.OutputPathUri" Value="file:///C:/Users/Anwari/source/repos/HodEx/x64/Release/HodEx.exe" />
+    <Path Id="e9b25175-c78d-483e-9439-e8f444279f4e.OutputPath" Value="C:\Users\Anwari\source\repos\SphaeroSimDataExtractor\x64\Release\SphaeroSimDataExtractor.exe" />
+    <Path Id="e9b25175-c78d-483e-9439-e8f444279f4e.OutputPathUri" Value="file:///C:/Users/Anwari/source/repos/SphaeroSimDataExtractor/x64/Release/SphaeroSimDataExtractor.exe" />
     <Path Id="System" Value="C:\WINDOWS\system32" />
     <Path Id="SystemUri" Value="file:///C:/WINDOWS/system32" />
-    <Path Id="VsSolution" Value="C:\Users\Anwari\source\repos\HodEx" />
-    <Path Id="VsSolutionUri" Value="file:///C:/Users/Anwari/source/repos/HodEx" />
+    <Path Id="VsSolution" Value="C:\Users\Anwari\source\repos\SphaeroSimDataExtractor" />
+    <Path Id="VsSolutionUri" Value="file:///C:/Users/Anwari/source/repos/SphaeroSimDataExtractor" />
   </Paths>
 </DirectedGraph>
