@@ -1,4 +1,4 @@
-// HodEx.cpp : Defines the entry point for the console application.
+// SphaeroSimDataExtractor.cpp : Defines the entry point for the console application.
 //
 
 #include "stdafx.h"
@@ -233,7 +233,7 @@ vector<string> GetXMLandCSVFiles(string databank_dir,
 				}
 				else
 
-					if (new_databank_dir.find("HodEx") == 0)
+					if (new_databank_dir.find("SphaeroSimDataExtractor") == 0)
 					{
 						printf("This is not Databank folder! \n This is .exe file!  %s \n", new_databank_dir.c_str());
 						/*cout << "This is not Databank folder! \n";
