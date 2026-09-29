@@ -22,7 +22,7 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{E9B25175-C78D-483E-9439-E8F444279F4E}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>HodEx</RootNamespace>
+    <RootNamespace>SphaeroSimDataExtractor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -153,7 +153,7 @@
     <ClInclude Include="tinyxml2.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="HodEx.cpp" />
+    <ClCompile Include="SphaeroSimDataExtractor.cpp" />
     <ClCompile Include="tinyxml2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
