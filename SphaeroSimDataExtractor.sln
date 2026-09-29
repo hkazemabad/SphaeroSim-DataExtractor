@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HodEx", "HodEx\HodEx.vcxproj", "{E9B25175-C78D-483E-9439-E8F444279F4E}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SphaeroSimDataExtractor", "SphaeroSimDataExtractor\SphaeroSimDataExtractor.vcxproj", "{E9B25175-C78D-483E-9439-E8F444279F4E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E38D6539-F5E9-4B55-952E-9FA8D70D73AB}"
 	ProjectSection(SolutionItems) = preProject
