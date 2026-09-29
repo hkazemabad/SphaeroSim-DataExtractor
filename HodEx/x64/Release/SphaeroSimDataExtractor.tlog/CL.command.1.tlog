@@ -1,0 +1,8 @@
+﻿^C:\USERS\ANWARI\SOURCE\REPOS\HODEX\HODEX\HODEX.CPP
+/c /Zi /nologo /W3 /WX- /diagnostics:classic /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC141.PDB" /FR"x64\Release\\" /Gd /TP /FC C:\USERS\ANWARI\SOURCE\REPOS\HODEX\HODEX\HODEX.CPP
+^C:\USERS\ANWARI\SOURCE\REPOS\HODEX\HODEX\TINYXML2.CPP
+/c /Zi /nologo /W3 /WX- /diagnostics:classic /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC141.PDB" /FR"x64\Release\\" /Gd /TP /FC C:\USERS\ANWARI\SOURCE\REPOS\HODEX\HODEX\TINYXML2.CPP
+^E:\HODA\2.SECOND_TASK\000.HODEX_ALL_VERSION\HODEX\HODEX\HODEX.CPP
+/c /Zi /nologo /W3 /WX- /diagnostics:classic /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC141.PDB" /FR"x64\Release\\" /Gd /TP /FC E:\HODA\2.SECOND_TASK\000.HODEX_ALL_VERSION\HODEX\HODEX\HODEX.CPP
+^E:\HODA\2.SECOND_TASK\000.HODEX_ALL_VERSION\HODEX\HODEX\TINYXML2.CPP
+/c /Zi /nologo /W3 /WX- /diagnostics:classic /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"X64\RELEASE\\" /Fd"X64\RELEASE\VC141.PDB" /FR"x64\Release\\" /Gd /TP /FC E:\HODA\2.SECOND_TASK\000.HODEX_ALL_VERSION\HODEX\HODEX\TINYXML2.CPP
