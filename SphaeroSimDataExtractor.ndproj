@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<NDepend AppName="HodEx" Platform="DotNet" FileWrittenByProductVersion="2019.2.0.9222">
-  <OutputDir KeepXmlFiles="False">C:\Users\Anwari\source\repos\HodEx\NDependOut</OutputDir>
+<NDepend AppName="SphaeroSimDataExtractor" Platform="DotNet" FileWrittenByProductVersion="2019.2.0.9222">
+  <OutputDir KeepXmlFiles="False">C:\Users\Anwari\source\repos\SphaeroSimDataExtractor\NDependOut</OutputDir>
   <IDEFiles>
-    <IDEFile FilePath="C:\Users\Anwari\source\repos\HodEx\HodEx.sln" Filters="-test" Configuration="DEBUG|AnyCPU" />
+    <IDEFile FilePath="C:\Users\Anwari\source\repos\SphaeroSimDataExtractor\SphaeroSimDataExtractor.sln" Filters="-test" Configuration="DEBUG|AnyCPU" />
   </IDEFiles>
   <Assemblies>
     <Name>NDepend.PowerTools</Name>
@@ -12408,11 +12408,11 @@ select new {
     </Group>
   </Queries>
   <WarnFilter>
-    <DontWarn>No valid assembly has been resolved from the Visual Studio solution file {C:\Users\Anwari\source\repos\HodEx\HodEx.sln}.</DontWarn>
-    <DontWarn>Can't load the assembly {HodEx}:
-The file {C:\Users\Anwari\source\repos\HodEx\HodEx\HodEx.vcxproj} is not a Visual Studio project file, wrong file extension {.vcxproj}.
+    <DontWarn>No valid assembly has been resolved from the Visual Studio solution file {C:\Users\Anwari\source\repos\SphaeroSimDataExtractor\SphaeroSimDataExtractor.sln}.</DontWarn>
+    <DontWarn>Can't load the assembly {SphaeroSimDataExtractor}:
+The file {C:\Users\Anwari\source\repos\SphaeroSimDataExtractor\SphaeroSimDataExtractor\SphaeroSimDataExtractor.vcxproj} is not a Visual Studio project file, wrong file extension {.vcxproj}.
 Supported file extensions .csproj, .vbproj, .xproj, .fsproj
-This project file is referenced by the Visual Studio solution {C:\Users\Anwari\source\repos\HodEx\HodEx.sln}</DontWarn>
+This project file is referenced by the Visual Studio solution {C:\Users\Anwari\source\repos\SphaeroSimDataExtractor\SphaeroSimDataExtractor.sln}</DontWarn>
     <DontWarn>Assembly {NDepend.PowerTools} doesn't contain any type.</DontWarn>
     <DontWarn>Assembly {NDepend.API} is referenced by {NDepend.PowerTools} but is not found.
 To resolve such warning you can append the assembly directory in NDepend Project Properties &gt; Code to Analyze &gt; Directories that contains .NET assemblies to analyze</DontWarn>
